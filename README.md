@@ -14,9 +14,8 @@ Cara penggunaan aplikasi
 -  Akses aplikasi via browser
 
 ************************************
-Donasikan untuk quela digital scholl 
+* Donasikan untuk quela digital scholl ke rek. 252740833
 ************************************
----- 252740833 ------
 
 ************
 Akses Login 
