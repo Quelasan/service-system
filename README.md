@@ -13,6 +13,11 @@ Cara penggunaan aplikasi
 -  Sesuaikan pengaturan dasar aplikasi pada file config/site.php
 -  Akses aplikasi via browser
 
+************************************
+Donasikan untuk quela digital scholl 
+************************************
+---- 252740833 ------
+
 ************
 Akses Login 
 ************
