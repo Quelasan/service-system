@@ -13,8 +13,8 @@ Cara penggunaan aplikasi
 -  Sesuaikan pengaturan dasar aplikasi pada file config/site.php
 -  Akses aplikasi via browser
 
-************************************
-* Donasikan untuk quela digital scholl ke rek. 252740833
+
+* Donasikan 25k digital Quela ke rek. 252740833
 ************************************
 
 ************
